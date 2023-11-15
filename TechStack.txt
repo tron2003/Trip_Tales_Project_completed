@@ -1,0 +1,15 @@
+Tech Stack-MERN Stack 
+Frontend- 
+React as a Framework 
+React Router for Navigation 
+Formik+Yup for Form Validation 
+Redux Toolkit for State Management 
+Redux Persist to store in Local Storage 
+React Dropzone for Image upload 
+
+Backend- 
+NodeJS as our Runtime 
+ExpressJS as our Backend Framework 
+Mongoose for Managing our Mongo Database 
+JSON Web Token JWT for Authentication 
+Multer for File upload
